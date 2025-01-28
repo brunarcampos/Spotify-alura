@@ -1,2 +1,1 @@
-# Spotify-alura
-imersão alura 
+# spotify-imersao
